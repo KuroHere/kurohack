@@ -1,4 +1,4 @@
-# <h1 align="center">kurohack</h1>  
+# <h1 align="center">kurohack< 
 # <h2 align="center">By KuroHere</h1>
 # <h3 align="center">join my arrchive now </h2>
 # <h3 align="center">https://discord.gg/PYUhdeTfe6</h2>
