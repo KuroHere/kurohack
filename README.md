@@ -11,4 +11,4 @@
  4. Put the downloaded file in the folder.
  5. Launch Minecraft Forge.
 
-## Nah soo hard to make a code
+## Nah soo hard to code
