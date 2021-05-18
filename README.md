@@ -1,7 +1,7 @@
 # <h1 align="center">KUROHACK 
-# <h1 align="center">By KuroHere
+# <h2 align="center">By KuroHere
 # <h3 align="center">join my arrchive now
-# <h3 align="center">https://discord.gg/PYUhdeTfe6
+#https://discord.gg/PYUhdeTfe6
 
 ## Installing
 
