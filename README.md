@@ -1,6 +1,6 @@
 # <h1 align="center">KUROHACK 
 # <h2 align="center">By KuroHere
-##join my arrchive now
+## join my arrchive now
 https://discord.gg/PYUhdeTfe6
 
 ## Installing
