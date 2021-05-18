@@ -1,7 +1,7 @@
 # <h1 align="center">kurohack</h1>  
 # <h2 align="center">By KuroHere</h2>
 # <h3 align="center">join my arrchive now </h3>
-# <h3 align="center" + "bold">https://discord.gg/PYUhdeTfe6</h3>
+# <h3 align="center", "bold">https://discord.gg/PYUhdeTfe6</h3>
 
 ## Installing
 
