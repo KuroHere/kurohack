@@ -5,7 +5,7 @@
 
 ## Downloading
 You can download this from the `builds` folder. The latest jarfile will always be called "latest.jar". Download and drag into your mods folder to use.
-Download in the `builds` folder, or [here](https://github.com/) for a direct download link
+Download in the `builds` folder, or [here](https://github.com/KuroHere/kurohack/releases/tag/0.2) for a direct download link
 
 ## Installation
 
