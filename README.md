@@ -1,4 +1,4 @@
-![image](https://github.com/KuroHere/kurohack/)
+![image](https://github.com/KuroHere/kurohack/blob/main/kurohack.png)
 # <h1 align="center">KuroHack 1.12.2 pvp client
 
 ## My disocrd server [here](https://discord.gg/PYUhdeTfe6)
