@@ -1,8 +1,8 @@
 ![image]
 # <h1 align="center">KuroHack
 # <h2 align="center">By Me
-## join my disocrd server [here]
-  (https://discord.gg/PYUhdeTfe6)
+
+## join my disocrd server [here](https://discord.gg/PYUhdeTfe6)
 
 ## Downloading
 You can download this from the `builds` folder. The latest jarfile will always be called "latest.jar". Download and drag into your mods folder to use.
