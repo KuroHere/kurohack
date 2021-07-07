@@ -1,6 +1,6 @@
 ![image]
 # <h1 align="center">KuroHack
-<h2 align="center">1.12.2 pvp client
+1.12.2 pvp client
 
 ## join my disocrd server [here](https://discord.gg/PYUhdeTfe6)
 
