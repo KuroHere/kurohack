@@ -1,5 +1,5 @@
 ![logo](https://github.com/KuroHere/kurohack/blob/main/kurohack.png)
-# <h1 align="center">**KuroHack** 1.12.2 pvp client.
+# <h1 align="center">**Kurohack** 1.12.2 pvp client.
 
 ## •My disocrd server [here](https://discord.gg/guma)
 
